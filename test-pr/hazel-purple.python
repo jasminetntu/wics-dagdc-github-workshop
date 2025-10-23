@@ -1,0 +1,7 @@
+# This is an example file!
+
+def main():
+    print("Hello, welcome to the git/github workshop! :)")
+
+if __name__ == "__main__":
+    main()
